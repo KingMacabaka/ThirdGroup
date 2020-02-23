@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f2f2d05-c09d-4cd7-ac47-e5a3b862dc95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/part3/TestCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part3/TestCallable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/part4/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part4/StudentTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="2f2f2d05-c09d-4cd7-ac47-e5a3b862dc95" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -208,5 +204,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582387226713" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1582443873826">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582443873826" />
   </component>
 </project>
