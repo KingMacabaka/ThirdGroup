@@ -1,4 +1,4 @@
-package part3;
+package main.part3;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

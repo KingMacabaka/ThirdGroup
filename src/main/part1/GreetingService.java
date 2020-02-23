@@ -1,4 +1,4 @@
-package part1;
+package main.part1;
 
 /**
  * @author xxq
