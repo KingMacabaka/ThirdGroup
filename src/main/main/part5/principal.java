@@ -11,15 +11,15 @@ import java.util.List;
  */
 public class principal {
     public static void main(String[] args) {
-        List<ConcreteStudent> studentList = new ArrayList<>(
+        List<main.part5.ConcreteStudent> studentList = new ArrayList<>(
                 Arrays.asList(
-                        new ConcreteStudent( "谢晓茜",2),
-                        new ConcreteStudent("杨晶",0),
-                        new ConcreteStudent("孙文龙",3),
-                        new ConcreteStudent("赵玉杰",8),
-                        new ConcreteStudent("韩源",2)
+                        new main.part5.ConcreteStudent( "谢晓茜",2),
+                        new main.part5.ConcreteStudent("杨晶",2),
+                        new main.part5.ConcreteStudent("孙文龙",3),
+                        new main.part5.ConcreteStudent("赵玉杰",8),
+                        new main.part5.ConcreteStudent("韩源",2)
         ));
-        School school = message ->{
+        main.part5.School school = message ->{
             System.out.println(message);
             studentList.forEach(student -> {
                 student.getNotify(student);
