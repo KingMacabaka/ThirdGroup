@@ -1,0 +1,44 @@
+HELP.md
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+*.xml
+.idea
+*.iws
+*.iml
+*.ipr
+##忽略这些文件夹
+out/
+logs/
+.idea/
+.mvn/
+target/*
+src/test/*
+.gitignore
+*/test/
+##忽略这些后缀的文件
+*.log
+*.properties
+*.class
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
