@@ -1,4 +1,4 @@
-package Student;
+package main.part4;
 
 /**
  * @author wl_sun

@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6501b83a-ae78-4bae-a0c4-8fe48c8dc810" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/all/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/all/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/part1/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part1/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/part2/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part2/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/part3/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part3/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/part4/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part4/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/part4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/part4/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part4/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +68,26 @@
       <recent name="java.part4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.principal (1)">
+  <component name="RunManager" selected="Application.StudentTest">
     <configuration name="GreetingServiceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.part1.GreetingServiceTest" />
       <module name="ThirdGroup" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.part4.StudentTest" />
+      <module name="ThirdGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.principal (1)" />
         <item itemvalue="Application.GreetingServiceTest" />
         <item itemvalue="Application.principal" />
@@ -165,22 +176,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1582435745825" />
-    <state width="1237" height="245" key="GridCell.Tab.0.bottom" timestamp="1582438145936">
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom" timestamp="1582438376498">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="245" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582438145936" />
-    <state width="1237" height="245" key="GridCell.Tab.0.center" timestamp="1582438145936">
+    <state width="1237" height="245" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582438376498" />
+    <state width="1237" height="245" key="GridCell.Tab.0.center" timestamp="1582438376498">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="245" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582438145936" />
-    <state width="1237" height="245" key="GridCell.Tab.0.left" timestamp="1582438145935">
+    <state width="1237" height="245" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582438376498" />
+    <state width="1237" height="245" key="GridCell.Tab.0.left" timestamp="1582438376498">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="245" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582438145935" />
-    <state width="1237" height="245" key="GridCell.Tab.0.right" timestamp="1582438145936">
+    <state width="1237" height="245" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582438376498" />
+    <state width="1237" height="245" key="GridCell.Tab.0.right" timestamp="1582438376498">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="245" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582438145936" />
+    <state width="1237" height="245" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582438376498" />
     <state x="121" y="0" key="SettingsEditor" timestamp="1582387226713">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
