@@ -11,6 +11,7 @@ package main.part1;
 public class Student {
     private Integer code;
     private String name;
+    private String sex;
 
     public Student() {
     }
@@ -20,16 +21,30 @@ public class Student {
         this.name = name;
     }
 
-    @Override
-    public String toString() {
-        return code + " " + name;
+    public Student(Integer code, String name, String sex) {
+        this.code = code;
+        this.name = name;
+        this.sex = sex;
     }
 
-    public int getCode() {
+    @Override
+    public String toString() {
+        return code + " " + name + " " + sex;
+    }
+
+    public String getSex() {
+        return sex;
+    }
+
+    public void setSex(String sex) {
+        this.sex = sex;
+    }
+
+    public Integer getCode() {
         return code;
     }
 
-    public void setCode(int code) {
+    public void setCode(Integer code) {
         this.code = code;
     }
 

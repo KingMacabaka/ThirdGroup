@@ -15,4 +15,16 @@ public class GreetingServiceTest {
         };
         greetingService.sayMessage("hello world");
     }
+
+    /**
+     * @author xxq
+     * @ClassName GreetingService
+     * @Description TODO
+     * @Date 2020/2/22
+     * @Version 1.0
+     **/
+    @FunctionalInterface
+    interface GreetingService {
+        void sayMessage(String message);
+    }
 }
