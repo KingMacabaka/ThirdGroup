@@ -1,4 +1,6 @@
-package java.part1;
+package main.all;
+
+import java.util.function.Consumer;
 
 /**
  * @author Jack
@@ -7,6 +9,7 @@ package java.part1;
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("123");
     }
 }
+
+

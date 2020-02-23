@@ -1,4 +1,4 @@
-package java.all;
+package main.part4;
 
 /**
  * @author Jack
