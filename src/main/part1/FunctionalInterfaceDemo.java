@@ -12,6 +12,7 @@ import java.util.List;
  **/
 public class FunctionalInterfaceDemo {
     public static void main(String[] args) {
+
         List<Student> sexFilterList = select(getMember(), m -> m.getSex().equals("女"));
 
         System.out.println("所有成员：");

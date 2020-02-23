@@ -21,7 +21,6 @@ public class RunnableTest {
             studentList.add(new Student(1111111111, "杨晶"));
             studentList.add(new Student(1231231233, "赵玉杰"));
             for (Student student : studentList){
-
                 System.out.println(student.toString());
             }
         });
