@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="6501b83a-ae78-4bae-a0c4-8fe48c8dc810" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThirdGroup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ThirdGroup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/all/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/all/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/part1/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/part1/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/part2/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/part2/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/part3/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/part4/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java/part4/test.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +67,75 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.ArrMaxValue">
+    <configuration name="ArrMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.ArrMaxValue" />
+      <module name="ThirdGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3.TestCallable" />
+      <module name="ThirdGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.part1.test" />
+      <module name="ThirdGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.part1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <module name="ThirdGroup" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.part4.test" />
+      <module name="ThirdGroup" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.part4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ArrMaxValue" />
+        <item itemvalue="Application.TestCallable" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -73,6 +148,7 @@
       <updated>1582381258882</updated>
       <workItem from="1582381260426" duration="944000" />
       <workItem from="1582382984599" duration="912000" />
+      <workItem from="1582421133672" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="测试-杨晶">
       <created>1582383128789</created>
@@ -92,7 +168,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

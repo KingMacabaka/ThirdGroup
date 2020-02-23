@@ -1,4 +1,4 @@
-package java.all;
+package all;
 
 /**
  * @author Jack
