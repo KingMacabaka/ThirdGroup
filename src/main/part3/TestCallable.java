@@ -11,7 +11,7 @@ import java.util.concurrent.FutureTask;
  * @Date 2020/2/23
  **/
 public class TestCallable {
-    public static void main(String[] args) {
+    public static void main( String[] args) {
         CallableThreadDemo ctd = new CallableThreadDemo();
         //1.执行Callable方式，需要FutureTask实现类的支持，用于接收运算结果
         FutureTask<Integer> result = new FutureTask<Integer>(ctd);

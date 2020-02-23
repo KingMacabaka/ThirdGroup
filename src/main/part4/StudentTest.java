@@ -23,6 +23,10 @@ public static void main(String[] args) {
     }
     //学生个数(名字以小开头的）
     long num = studentList.stream().filter((student) ->student.getName().startsWith("小")).count();
+    //名字长度是3的
+    long num1 = studentList.stream().filter((student) ->student.getName().length() == 3).count();
     System.out.println(num);
+    System.out.println(num1);
 }
 }
+

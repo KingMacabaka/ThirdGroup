@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6501b83a-ae78-4bae-a0c4-8fe48c8dc810" name="Default Changelist" comment="">
+    <list default="true" id="2f2f2d05-c09d-4cd7-ac47-e5a3b862dc95" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/part4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/part3/TestCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part3/TestCallable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/part4/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/part4/StudentTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,6 +129,18 @@
         <item itemvalue="Application.principal" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
