@@ -1,30 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
     <list default="true" id="2f2f2d05-c09d-4cd7-ac47-e5a3b862dc95" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/part3/FactorialCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/{" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/META-INF/ThirdGroup.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThirdGroup/META-INF/ThirdGroup.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/main/part1/GreetingServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThirdGroup/main/part1/GreetingServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/main/part1/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThirdGroup/main/part1/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/main/part2/InterfaceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThirdGroup/main/part2/InterfaceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/main/part4/StudentTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ThirdGroup/main/part4/StudentTest.class" afterDir="false" />
     </list>
-=======
-<<<<<<< Updated upstream
-    <list default="true" id="2f2f2d05-c09d-4cd7-ac47-e5a3b862dc95" name="Default Changelist" comment="" />
-=======
-    <list default="true" id="6501b83a-ae78-4bae-a0c4-8fe48c8dc810" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/all/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/part1/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/part2/Rank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/part2/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/part2/test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/part2/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/part3/ArrMaxValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/part3/CallableThreadDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/part3/TestCallable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThirdGroup/part4/test.class" beforeDir="false" />
-    </list>
->>>>>>> Stashed changes
->>>>>>> f21e1d243cbb218332184fcf14164dec9abd7014
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,13 +69,25 @@
       <recent name="D:\dev\SpringBoot\ThirdGroup\src\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.InterfaceTest">
-    <configuration name="ArrMaxValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.ArrMaxValue" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TestCallable (1)">
+    <configuration name="ArrMaxValue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.part3.ArrMaxValue" />
       <module name="ThirdGroup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.*" />
+          <option name="PATTERN" value="main.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCallable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="part3.TestCallable" />
+    <configuration name="TestCallable (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.part3.TestCallable" />
       <module name="ThirdGroup" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="part3.*" />
+          <option name="PATTERN" value="main.part3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,40 +147,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.part4.test" />
-      <module name="ThirdGroup" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java.part4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCallable (1)" />
+        <item itemvalue="Application.ArrMaxValue (1)" />
         <item itemvalue="Application.InterfaceTest" />
         <item itemvalue="Application.test (2)" />
         <item itemvalue="Application.test (1)" />
-        <item itemvalue="Application.TestCallable" />
-        <item itemvalue="Application.ArrMaxValue" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -287,15 +259,14 @@
     <state x="562" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582454443108">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-<<<<<<< Updated upstream
     <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1582387226713" />
     <state x="425" y="197" key="run.anything.popup" timestamp="1582443873826">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1582443873826" />
-=======
+    =======
     <state x="562" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1582438743223" />
     <state x="562" y="333" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1582454443108" />
->>>>>>> Stashed changes
+    &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes
   </component>
 </project>
